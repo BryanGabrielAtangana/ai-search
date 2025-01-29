@@ -1,1 +1,1 @@
-# ai-search
+# ai-search : semantic book recommender
