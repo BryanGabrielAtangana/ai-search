@@ -5,6 +5,6 @@
 ## Technologies Used
 
 - **Langchain**: A framework to simplify the development of LLM applications.
-- **OpenAI API**: For powerful language models like GPT.
+- **NOMIC Embeded**: A Truly Open Embedding Model.
 - **Transformers (HuggingFace)**: For NLP and deep learning models.
 - **Gradio**: A UI tool to easily build interactive demos for machine learning models.
